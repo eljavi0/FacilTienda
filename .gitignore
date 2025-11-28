@@ -1,0 +1,9 @@
+# Ignorar la carpeta de dependencias (MUY IMPORTANTE)
+/node_modules
+
+# Ignorar variables de entorno (Clave de Gemini)
+.env
+.env.local
+
+# Otros archivos comunes a ignorar
+npm-debug.log*
